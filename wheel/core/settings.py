@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'br-j!d4edc%e*s5s8&h$_d&epd&l2ahq^(cwj3r903i^8+u=wr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['178.128.57.169',
                  'luckyspinmenara.shop', 'localhost', '127.0.0.1']
